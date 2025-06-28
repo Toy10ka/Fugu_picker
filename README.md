@@ -21,7 +21,7 @@
 │ ├─ Scripts/ … ゲームロジック (C#)
 │ ├─ Prefab/ … フグのプレハブ
 │ ├─ Materials/ … 壁等のマテリアル
-│ └─ _Art/ … フグの自作3DModel，texture, materials
+│ └─ _Art/ … 自作の3Dモデル・テクスチャ等
 ├─ ProjectSettings/
 ├─ Packages/
 └─ README.md … このファイル
