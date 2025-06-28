@@ -1,6 +1,6 @@
 # 🐡 Fugu_picker
 
-制限時間内にプール内にいる6匹のフグ（Puffer Fish）をすべて集める、簡単なタイムアタックゲームです。
+制限時間内にプール内にいる6匹のフグ（Puffer Fish）をすべて集めるタイムアタックゲームです。
 
 ![](Images/Screenshot1.png) 
 ![](Images/Screenshot2.png) 
