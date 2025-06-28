@@ -1,7 +1,6 @@
 # 🐡 Fugu_picker
 
-Unity で作成したシンプルなタイムアタックゲームです。  
-制限時間内にプール内にいる6匹のフグ（Puffer Fish）をすべて集めましょう！
+制限時間内にプール内にいる6匹のフグ（Puffer Fish）をすべて集めるタイムアタックゲームです。
 
 ![](Images/screenshot_gameplay.png) 
 
