@@ -2,7 +2,8 @@
 
 制限時間内にプール内にいる6匹のフグ（Puffer Fish）をすべて集めるタイムアタックゲームです。
 
-![](Images/screenshot_gameplay.png) 
+![](Images/screenshot1.png) 
+![](Images/screenshot2.png) 
 
 ---
 
