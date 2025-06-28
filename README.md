@@ -16,7 +16,7 @@ Unity で作成したシンプルなタイムアタックゲームです。
 ---
 
 ## 📂 プロジェクト構成
-
+```text
 ├─ Assets/
 │ ├─ Scenes/ … GameScene.unity
 │ ├─ Scripts/ … ゲームロジック (C#)
@@ -26,10 +26,14 @@ Unity で作成したシンプルなタイムアタックゲームです。
 ├─ ProjectSettings/
 ├─ Packages/
 └─ README.md … このファイル
+```
+---
 
 ## ⚙️ 開発環境 / Requirements
 
-| **Unity** | Unity 6.0 (6000.0.50f1) |
+| Unity 6.0 (6000.0.50f1) |
+
+---
 
 📝 今後の TODO / Ideas
 - 難易度選択に応じた制限時間
